@@ -12,6 +12,7 @@ namespace DependencyInversionPrinciple
             email.Subject="Test";
             email.ToAddress="deneme@gmail.com";
             email.SendMessage();
+            //Bu yukarıdaki örneği diğer sınıflarada uygulayabiliriz
         }
     }
 }
