@@ -7,13 +7,10 @@ namespace Liskov_Substitution_Principle
         static void Main(string[] args)
         {
             var tavuk=new Tavuk();
-            System.Console.WriteLine("tavuk ,");
-            tavuk.Yuru();
+            System.Console.WriteLine("tavuk ,"+tavuk.Yuru());
             var guvercin=new Guvercin();
-            System.Console.WriteLine("güvercin ,");
-            guvercin.Yuru();
-            System.Console.WriteLine("güvercin ,");
-            guvercin.Uc();
+            System.Console.WriteLine("güvercin ,"+guvercin.Yuru());
+            System.Console.WriteLine("güvercin ,"+guvercin.Uc());
         }
     }
 }
