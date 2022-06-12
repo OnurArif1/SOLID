@@ -1,0 +1,5 @@
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\Liskov Substitution Principle\obj\Debug\net5.0\Liskov Substitution Principle.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\Liskov Substitution Principle\obj\Debug\net5.0\Liskov Substitution Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\Liskov Substitution Principle\obj\Debug\net5.0\Liskov Substitution Principle.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\Liskov Substitution Principle\obj\Debug\net5.0\Liskov Substitution Principle.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\Liskov Substitution Principle\obj\Debug\net5.0\Liskov Substitution Principle.csproj.CoreCompileInputs.cache
