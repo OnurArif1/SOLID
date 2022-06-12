@@ -1,6 +1,6 @@
 using System;
 
-namespace IYuruyenler
+namespace Liskov_Substitution_Principle
 {
     public interface IYuruyenler
     {

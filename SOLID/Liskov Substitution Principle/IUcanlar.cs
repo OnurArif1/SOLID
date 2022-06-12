@@ -1,6 +1,6 @@
 using System;
 
-namespace IUcanlar
+namespace Liskov_Substitution_Principle
 {
     public interface IUcanlar
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace Tavuk
+namespace Liskov_Substitution_Principle
 {
     public class Tavuk:IYuruyenler
     {

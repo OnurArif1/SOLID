@@ -1,6 +1,6 @@
 using System;
 
-namespace Guvercin
+namespace Liskov_Substitution_Principle
 {
     public class Guvercin:IYuruyenler,IUcanlar
     {
