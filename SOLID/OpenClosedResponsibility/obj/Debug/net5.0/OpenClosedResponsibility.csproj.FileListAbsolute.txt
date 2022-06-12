@@ -1,0 +1,16 @@
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\bin\Debug\net5.0\OpenClosedResponsibility.exe
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\bin\Debug\net5.0\OpenClosedResponsibility.deps.json
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\bin\Debug\net5.0\OpenClosedResponsibility.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\bin\Debug\net5.0\OpenClosedResponsibility.runtimeconfig.dev.json
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\bin\Debug\net5.0\OpenClosedResponsibility.dll
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\bin\Debug\net5.0\ref\OpenClosedResponsibility.dll
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\bin\Debug\net5.0\OpenClosedResponsibility.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\obj\Debug\net5.0\OpenClosedResponsibility.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\obj\Debug\net5.0\OpenClosedResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\obj\Debug\net5.0\OpenClosedResponsibility.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\obj\Debug\net5.0\OpenClosedResponsibility.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\obj\Debug\net5.0\OpenClosedResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\obj\Debug\net5.0\OpenClosedResponsibility.dll
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\obj\Debug\net5.0\ref\OpenClosedResponsibility.dll
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\obj\Debug\net5.0\OpenClosedResponsibility.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\SOLID\SOLID\OpenClosedResponsibility\obj\Debug\net5.0\OpenClosedResponsibility.genruntimeconfig.cache
